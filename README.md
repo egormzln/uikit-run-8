@@ -1,4 +1,4 @@
-# NativeAvatar
+# Native Avatar Task
 
 This project demonstrates the implementation of a **UINavigationController** with a large title and an interactive avatar image that moves and scales dynamically with the title during scrolling.
 
